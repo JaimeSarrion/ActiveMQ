@@ -18,7 +18,7 @@ El funcionamiento es muy sencillo, las oficinas van generando números aleatorio
 
 
 # Puesta en marcha
-Para la puesta en marcha hay que tener instalado Visual Studio. Ejecutamos la solución y se nos abrirá el proyecto y solamente tenemos que darle a Iniciar.
+Para la puesta en marcha hay que tener instalado Visual Studio. Ejecutamos la solución, se nos abrirá el proyecto y solamente tenemos que darle a Iniciar.
 
 Una vez en marcha:
 * Si queremos modificar algún valor, hemos de pulsar 1, y si queremos dejarlo tal cual está, pulsaremos 0. Una vez le demos a intro se ejecutará todo y cada 5 segundos las oficinas enviarán los datos de temperatura y luminosidad que tienen y leerán las acciones que han de tomar en base a las últimas mediciones.
