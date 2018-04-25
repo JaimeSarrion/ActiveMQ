@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2037
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oficina1", "Oficina1\Oficina1.csproj", "{E8CCB358-D865-4478-B73E-BDF7322B67C5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Consola", "..\Consola\Consola.csproj", "{F465181B-A26C-426E-870B-4A5D2AF2C353}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oficina2", "Oficina2\Oficina2.csproj", "{227947D5-5DBF-49F3-87F9-F93A45783034}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E8CCB358-D865-4478-B73E-BDF7322B67C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8CCB358-D865-4478-B73E-BDF7322B67C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8CCB358-D865-4478-B73E-BDF7322B67C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8CCB358-D865-4478-B73E-BDF7322B67C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F465181B-A26C-426E-870B-4A5D2AF2C353}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F465181B-A26C-426E-870B-4A5D2AF2C353}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F465181B-A26C-426E-870B-4A5D2AF2C353}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F465181B-A26C-426E-870B-4A5D2AF2C353}.Release|Any CPU.Build.0 = Release|Any CPU
+		{227947D5-5DBF-49F3-87F9-F93A45783034}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{227947D5-5DBF-49F3-87F9-F93A45783034}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{227947D5-5DBF-49F3-87F9-F93A45783034}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{227947D5-5DBF-49F3-87F9-F93A45783034}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9D490E63-98B3-41D6-91E0-46E2063A2442}
+	EndGlobalSection
+EndGlobal

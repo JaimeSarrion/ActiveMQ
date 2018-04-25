@@ -1,0 +1,14 @@
+C:\Users\Jaime\Documents\UNI\4\2o cuatri\MTIS\Practica\practica 4\Consola\bin\Debug\Consola.exe.config
+C:\Users\Jaime\Documents\UNI\4\2o cuatri\MTIS\Practica\practica 4\Consola\bin\Debug\Consola.exe
+C:\Users\Jaime\Documents\UNI\4\2o cuatri\MTIS\Practica\practica 4\Consola\bin\Debug\Consola.pdb
+C:\Users\Jaime\Documents\UNI\4\2o cuatri\MTIS\Practica\practica 4\Consola\bin\Debug\Apache.NMS.ActiveMQ.dll
+C:\Users\Jaime\Documents\UNI\4\2o cuatri\MTIS\Practica\practica 4\Consola\bin\Debug\Apache.NMS.dll
+C:\Users\Jaime\Documents\UNI\4\2o cuatri\MTIS\Practica\practica 4\Consola\bin\Debug\Apache.NMS.pdb
+C:\Users\Jaime\Documents\UNI\4\2o cuatri\MTIS\Practica\practica 4\Consola\bin\Debug\Apache.NMS.xml
+C:\Users\Jaime\Documents\UNI\4\2o cuatri\MTIS\Practica\practica 4\Consola\bin\Debug\Apache.NMS.ActiveMQ.pdb
+C:\Users\Jaime\Documents\UNI\4\2o cuatri\MTIS\Practica\practica 4\Consola\bin\Debug\Apache.NMS.ActiveMQ.xml
+C:\Users\Jaime\Documents\UNI\4\2o cuatri\MTIS\Practica\practica 4\Consola\obj\Debug\Consola.csprojResolveAssemblyReference.cache
+C:\Users\Jaime\Documents\UNI\4\2o cuatri\MTIS\Practica\practica 4\Consola\obj\Debug\Consola.csproj.CoreCompileInputs.cache
+C:\Users\Jaime\Documents\UNI\4\2o cuatri\MTIS\Practica\practica 4\Consola\obj\Debug\Consola.csproj.CopyComplete
+C:\Users\Jaime\Documents\UNI\4\2o cuatri\MTIS\Practica\practica 4\Consola\obj\Debug\Consola.exe
+C:\Users\Jaime\Documents\UNI\4\2o cuatri\MTIS\Practica\practica 4\Consola\obj\Debug\Consola.pdb

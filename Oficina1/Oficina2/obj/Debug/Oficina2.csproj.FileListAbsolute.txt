@@ -1,0 +1,14 @@
+C:\Users\Jaime\Documents\UNI\4\2o cuatri\MTIS\Practica\practica 4\Oficina1\Oficina2\bin\Debug\Oficina2.exe.config
+C:\Users\Jaime\Documents\UNI\4\2o cuatri\MTIS\Practica\practica 4\Oficina1\Oficina2\bin\Debug\Oficina2.exe
+C:\Users\Jaime\Documents\UNI\4\2o cuatri\MTIS\Practica\practica 4\Oficina1\Oficina2\bin\Debug\Oficina2.pdb
+C:\Users\Jaime\Documents\UNI\4\2o cuatri\MTIS\Practica\practica 4\Oficina1\Oficina2\bin\Debug\Apache.NMS.ActiveMQ.dll
+C:\Users\Jaime\Documents\UNI\4\2o cuatri\MTIS\Practica\practica 4\Oficina1\Oficina2\bin\Debug\Apache.NMS.dll
+C:\Users\Jaime\Documents\UNI\4\2o cuatri\MTIS\Practica\practica 4\Oficina1\Oficina2\bin\Debug\Apache.NMS.pdb
+C:\Users\Jaime\Documents\UNI\4\2o cuatri\MTIS\Practica\practica 4\Oficina1\Oficina2\bin\Debug\Apache.NMS.xml
+C:\Users\Jaime\Documents\UNI\4\2o cuatri\MTIS\Practica\practica 4\Oficina1\Oficina2\bin\Debug\Apache.NMS.ActiveMQ.pdb
+C:\Users\Jaime\Documents\UNI\4\2o cuatri\MTIS\Practica\practica 4\Oficina1\Oficina2\bin\Debug\Apache.NMS.ActiveMQ.xml
+C:\Users\Jaime\Documents\UNI\4\2o cuatri\MTIS\Practica\practica 4\Oficina1\Oficina2\obj\Debug\Oficina2.csprojResolveAssemblyReference.cache
+C:\Users\Jaime\Documents\UNI\4\2o cuatri\MTIS\Practica\practica 4\Oficina1\Oficina2\obj\Debug\Oficina2.csproj.CoreCompileInputs.cache
+C:\Users\Jaime\Documents\UNI\4\2o cuatri\MTIS\Practica\practica 4\Oficina1\Oficina2\obj\Debug\Oficina2.csproj.CopyComplete
+C:\Users\Jaime\Documents\UNI\4\2o cuatri\MTIS\Practica\practica 4\Oficina1\Oficina2\obj\Debug\Oficina2.exe
+C:\Users\Jaime\Documents\UNI\4\2o cuatri\MTIS\Practica\practica 4\Oficina1\Oficina2\obj\Debug\Oficina2.pdb
