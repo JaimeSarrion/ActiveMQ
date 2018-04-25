@@ -22,3 +22,9 @@ Para la puesta en marcha hay que tener instalado Visual Studio. Ejecutamos la so
 
 Una vez en marcha:
 * Si queremos modificar algún valor, hemos de pulsar 1, y si queremos dejarlo tal cual está, pulsaremos 0. Una vez le demos a intro se ejecutará todo y cada 5 segundos las oficinas enviarán los datos de temperatura y luminosidad que tienen y leerán las acciones que han de tomar en base a las últimas mediciones.
+
+# Autor
+* **Jaime Sarrión Sahuquillo** - *Programador* - [Jaime](https://github.com/JaimeSarrion)
+
+# Licencia
+Este proyecto está bajo la licencia GNU GPL - revisa [LICENSE](LICENSE) para ver más detalles.
